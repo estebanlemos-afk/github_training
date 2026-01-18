@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 new kind of mambo
+=======
+matangatanga
+aburiruriru
+>>>>>>> changes
